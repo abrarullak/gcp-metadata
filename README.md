@@ -28,6 +28,7 @@ For example, the script below retrieves the instance id:
 
 We can pass the metadata parameter that we want to retrieve and get the results.
 
+
 Below script can be used to retrieve to metadata from cloud shell using gcloud
 
 ./get-metadata-using-gcloud.sh id
